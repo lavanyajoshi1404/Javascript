@@ -27,7 +27,7 @@ console.log(Math.floor(4.45))
 console.log(Math.min(4,2,6,8))//to find min and max values
 console.log(Math.max(4,9,7,8))
 // Math.random gives always values between 0 and 1
-console.log(Math.random())
+console.log(Math.random()) 
 //formula for math.random
 const min =10
 const max =20
