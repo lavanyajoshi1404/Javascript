@@ -47,3 +47,10 @@ const course={
 const{courseInstructor:instructor}=course
 
 console.log(instructor)
+/*SUMMARRY :
+
+1. To extract value from object => const {keyname} = object name;
+2. To rename keyname for using more times => const {keyname: new name } = object name;
+3. JSON is a collection of key-value pairs just like object and a JSON array is an ordered list of value.
+
+*/
